@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { createApi, fetchBaseQuery } from '@reduxjs/toolkit/query/react'
 
 import { Game } from '../App'
